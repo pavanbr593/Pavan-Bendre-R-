@@ -34,5 +34,7 @@ Get in Touch
 Feel free to reach out if you'd like to connect, collaborate on a project, or discuss the latest trends in AI and technology.
 
 Email: pavanbr593@gmail.com
-GitHub: pavanbr593
-LinkedIn:pavan-bendre-r
+
+GitHub: https://github.com/pavanbr593 
+ 
+LinkedIn: linkedin.com/in/pavan-bendre-r
