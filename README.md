@@ -11,9 +11,13 @@ As a Third-year student specializing in AI and Machine Learning, I've been refin
 Skills : 
 
 Here’s a snapshot of the technologies and tools I work with: ✨
+
 Programming Languages: C, Python , Java
+
 AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn , Langchain
+
 Tools & Technologies: Git, Docker 
+
 Cloud Computing: AWS, Google Cloud Platform (GCP) 
 
 Projects :
