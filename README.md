@@ -20,13 +20,13 @@ Projects :
 
 Here are some impactful projects I’ve worked on:
 1) ECO-TREE Advisor: Tree Growth Prediction Model
-A machine learning model advising on suitable tree species for plantation based on environmental factors like soil type, water, and climate conditions. 🌳
+A machine learning model advising on suitable tree species for plantation based on environmental factors like soil type, water, and climate conditions🌳
 
 2) Water Footprint Calculator
-A multi-language web app that estimates the water footprint of agricultural and consumer products, accounting for region-specific factors. 💧
+A multi-language web app that estimates the water footprint of agricultural and consumer products, accounting for region-specific factors💧
 
 3) AI-Powered Mental Health Chatbot
-An AI-driven chatbot offering mental health support, mindfulness tips, and calming techniques through NLP. 💬
+An AI-driven chatbot offering mental health support, mindfulness tips, and calming techniques through NLP. 
 
 Interests :
 
