@@ -16,8 +16,6 @@ Programming Languages: C, Python , Java
 
 AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn , Langchain
 
-Tools & Technologies: Git, Docker 
-
 Cloud Computing: AWS, Google Cloud Platform (GCP) 
 
 Projects :
