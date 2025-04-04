@@ -18,6 +18,9 @@ AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn , Langchain
 
 Cloud Computing: AWS, Google Cloud Platform (GCP) 
 
+Technologies/Frameworks: TensorFlow, Keras, OpenCV, MongoDB, Hugging Face, Google API, Streamlit, PyTorch, Scikit-learn , Langchain , gradle, Postman API
+
+ 
 Projects :
 
 Here are some impactful projects I’ve worked on:
