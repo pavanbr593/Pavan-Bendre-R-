@@ -14,8 +14,6 @@ Here’s a snapshot of the technologies and tools I work with: ✨
 
 Programming Languages: C, Python , Java
 
-AI & ML Frameworks: TensorFlow, PyTorch, Scikit-learn , Langchain
-
 Cloud Computing: AWS, Google Cloud Platform (GCP) 
 
 Technologies/Frameworks: TensorFlow, Keras, OpenCV, MongoDB, Hugging Face, Google API, Streamlit, PyTorch, Scikit-learn , Langchain , gradle, Postman API
