@@ -1,24 +1,91 @@
-# 💫 About Me:
-About Me <br><br>Hi there! 👋<br><br>I'm Pavan Bendre R, a Third-year B.E. Artificial Intelligence and Machine Learning Engineering student based in Shivamogga. I have a deep passion for Artificial Intelligence, Machine Learning, Deep Learning, Generative AI, and Entrepreneurship. 🚀 I am dedicated to leveraging cutting-edge technologies to create innovative solutions that can drive meaningful change. <br><br>Professional Background :<br><br>As a Third-year student specializing in AI and Machine Learning, I've been refining my skills in various programming languages and technologies that are pivotal in the AI field. I am particularly focused on developing AI-driven technologies that can deliver scalable, intelligent solutions. My passion lies in applying  machine learning, generative AI and deep learning techniques to solve complex problems and create impactful products. 💻🔍<br><br>Skills : <br><br>Here’s a snapshot of the technologies and tools I work with: ✨<br><br>Programming Languages: C, Python , Java<br><br>Cloud Computing: AWS, Google Cloud Platform (GCP) <br><br>Technologies/Frameworks: TensorFlow, Keras, OpenCV, MongoDB, Hugging Face, Google API, Streamlit, PyTorch, Scikit-learn , Langchain , gradle, Postman API<br><br> <br>Projects :<br><br>Here are some impactful projects I’ve worked on:<br>1) ECO-TREE Advisor: Tree Growth Prediction Model<br>A machine learning model advising on suitable tree species for plantation based on environmental factors like soil type, water, and climate conditions🌳<br><br>2) Water Footprint Calculator<br>A multi-language web app that estimates the water footprint of agricultural and consumer products, accounting for region-specific factors💧<br><br>3) AI-Powered Mental Health Chatbot<br>An AI-driven chatbot offering mental health support, mindfulness tips, and calming techniques through NLP. <br><br>Interests :<br><br>When I'm not coding, you'll find me exploring new AI/ML technologies, reading tech blogs, and participating in hackathons. 🎮💻 I am also passionate about contributing to open-source projects, learning the latest advancements in Generative AI, and diving deep into the world of entrepreneurship and quantum computing. 🌟🔍<br><br>I’m always excited to connect with like-minded individuals who are interested in AI, technology, and innovation! 🤗🚀  <br><br>Get in Touch<br>Feel free to reach out if you'd like to connect, collaborate on a project, or discuss the latest trends in AI and technology.<br><br>Email: pavanbr593@gmail.com<br><br>LinkedIn: www.linkedin.com/in/pavan-bendre-r<br>
+# 💫 About Me
 
+Hi there! 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100092759228654) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/pavan_.br/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/pavan-bendre-r) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@pavanbr593) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pavanbr593@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=flat&logo=framer&logoColor=blue) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat&logo=scipy&logoColor=%white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pavanbr593&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=pavanbr593&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbr593&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=pavanbr593&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pavanbr593&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm **Pavan Bendre R**, a final-year B.E. student specializing in **Artificial Intelligence and Machine Learning** at Shivamogga. I'm passionate about leveraging cutting-edge AI technologies, including **Deep Learning, Generative AI**, and **Machine Learning**, to craft solutions that drive real-world impact. I’m also deeply interested in **entrepreneurship**, always looking for ways to merge tech with innovation to solve meaningful problems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pavanbr593&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Professional Snapshot
+
+As an AI/ML engineer in the making, I’ve honed skills across various domains—from building intelligent systems to deploying scalable applications. I actively explore the intersections of **technology, research**, and **product development**, aiming to bridge theory and practical use-cases.
+
+I am proficient in:
+
+* AI/ML model development
+* Backend API design using Flask, FastAPI
+* Full-stack deployment
+* Multilingual web application development
+
+---
+
+## 🧠 Notable Projects
+
+**1. ECO-TREE Advisor**
+A smart recommendation model that predicts suitable tree species for plantation based on regional soil, water, and climatic conditions. 🌳
+
+**2. Water Footprint Calculator**
+A multilingual web-based tool that estimates water usage for agricultural and consumer goods, factoring in region-specific variables. 💧
+
+**3. AI-Powered Mental Health Chatbot**
+An NLP-driven chatbot offering supportive mental health resources, mindfulness strategies, and conversational stress-relief tools. 🧘‍♂️
+
+---
+
+## 🎯 Interests
+
+* Generative AI and large language models
+* Hackathons and startup culture
+* Open-source contributions
+* Quantum computing and its intersection with AI
+* Reading tech blogs, solving real-world problems through AI
+
+Always up for a collab, a challenge, or a good AI convo!
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/pavan-bendre-r)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium\&logoColor=white)](https://medium.com/@pavanbr593)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/pavan_.br/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:pavanbr593@gmail.com)
+
+---
+
+## 💻 Tech Stack
+
+**Languages & Frameworks:**
+Java, Python, C, Dart, Flask, FastAPI, Django, Flutter, Streamlit, TensorFlow, PyTorch, Keras, scikit-learn, NumPy, Pandas, Matplotlib, SciPy
+
+**Databases & DevOps:**
+MySQL, MongoDB, Git, GitHub, GitHub Actions, Postman, Vercel, Netlify
+
+**UI/UX & Productivity Tools:**
+Figma, Canva, Framer, Notion, Power BI
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pavanbr593\&theme=dark\&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=pavanbr593\&theme=dark\&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pavanbr593\&theme=dark\&hide_border=false\&layout=compact)
+
+---
+
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=pavanbr593\&theme=radical\&no-frame=false\&no-bg=true\&margin-w=4)
+
+---
+
+## 🔝 Top Contributed Repos
+
+![](https://github-contributor-stats.vercel.app/api?username=pavanbr593\&limit=5\&theme=dark\&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=pavanbr593\&icon=0\&color=0)](https://visitcount.itsvg.in)
+
+<!-- Profile readme generated with ❤️ by ChatGPT + GPRM -->
